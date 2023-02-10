@@ -8,3 +8,13 @@ C:\Users\Stefan\source\repos\MyCalculatorProject\MyCalculatorProject\obj\Debug\M
 C:\Users\Stefan\source\repos\MyCalculatorProject\MyCalculatorProject\obj\Debug\MyCalculatorProject.csproj.CoreCompileInputs.cache
 C:\Users\Stefan\source\repos\MyCalculatorProject\MyCalculatorProject\obj\Debug\MyCalculatorProject.exe
 C:\Users\Stefan\source\repos\MyCalculatorProject\MyCalculatorProject\obj\Debug\MyCalculatorProject.pdb
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\bin\Debug\MyCalculatorProject.exe.config
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\bin\Debug\MyCalculatorProject.exe
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\bin\Debug\MyCalculatorProject.pdb
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\obj\Debug\MyCalculatorProject.csproj.AssemblyReference.cache
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\obj\Debug\MyCalculatorProject.Form1.resources
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\obj\Debug\MyCalculatorProject.Properties.Resources.resources
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\obj\Debug\MyCalculatorProject.csproj.GenerateResource.cache
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\obj\Debug\MyCalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\obj\Debug\MyCalculatorProject.exe
+C:\Users\Stefan\Source\Repos\stefanborcia\MyCalculator\MyCalculatorProject\obj\Debug\MyCalculatorProject.pdb

@@ -53,19 +53,20 @@
             // 
             // display
             // 
-            this.display.BackColor = System.Drawing.Color.DarkGray;
-            this.display.Font = new System.Drawing.Font("Ravie", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.display.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.display.Font = new System.Drawing.Font("Arial", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.display.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.display.Location = new System.Drawing.Point(12, 12);
             this.display.Name = "display";
             this.display.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.display.Size = new System.Drawing.Size(460, 71);
+            this.display.Size = new System.Drawing.Size(460, 63);
             this.display.TabIndex = 0;
             // 
             // ButtonEqual
             // 
-            this.ButtonEqual.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonEqual.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ButtonEqual.Location = new System.Drawing.Point(12, 99);
+            this.ButtonEqual.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonEqual.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.ButtonEqual.Location = new System.Drawing.Point(244, 457);
             this.ButtonEqual.Name = "ButtonEqual";
             this.ButtonEqual.Size = new System.Drawing.Size(110, 80);
             this.ButtonEqual.TabIndex = 1;
@@ -75,8 +76,8 @@
             // 
             // ButtonClear
             // 
-            this.ButtonClear.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonClear.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonClear.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonClear.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonClear.Location = new System.Drawing.Point(244, 99);
             this.ButtonClear.Name = "ButtonClear";
             this.ButtonClear.Size = new System.Drawing.Size(110, 80);
@@ -87,8 +88,8 @@
             // 
             // ButtonSplit
             // 
-            this.ButtonSplit.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonSplit.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonSplit.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonSplit.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonSplit.Location = new System.Drawing.Point(362, 99);
             this.ButtonSplit.Name = "ButtonSplit";
             this.ButtonSplit.Size = new System.Drawing.Size(110, 80);
@@ -99,8 +100,8 @@
             // 
             // ButtonMinus
             // 
-            this.ButtonMinus.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonMinus.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonMinus.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonMinus.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonMinus.Location = new System.Drawing.Point(362, 187);
             this.ButtonMinus.Name = "ButtonMinus";
             this.ButtonMinus.Size = new System.Drawing.Size(110, 80);
@@ -111,8 +112,8 @@
             // 
             // ButtonNine
             // 
-            this.ButtonNine.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonNine.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonNine.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonNine.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonNine.Location = new System.Drawing.Point(244, 187);
             this.ButtonNine.Name = "ButtonNine";
             this.ButtonNine.Size = new System.Drawing.Size(110, 80);
@@ -123,8 +124,8 @@
             // 
             // ButtonEight
             // 
-            this.ButtonEight.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonEight.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonEight.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonEight.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonEight.Location = new System.Drawing.Point(128, 187);
             this.ButtonEight.Name = "ButtonEight";
             this.ButtonEight.Size = new System.Drawing.Size(110, 80);
@@ -135,8 +136,8 @@
             // 
             // ButtonSeven
             // 
-            this.ButtonSeven.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonSeven.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonSeven.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonSeven.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ButtonSeven.Location = new System.Drawing.Point(12, 187);
             this.ButtonSeven.Name = "ButtonSeven";
             this.ButtonSeven.Size = new System.Drawing.Size(110, 80);
@@ -147,8 +148,8 @@
             // 
             // ButtonPlus
             // 
-            this.ButtonPlus.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonPlus.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonPlus.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonPlus.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonPlus.Location = new System.Drawing.Point(362, 457);
             this.ButtonPlus.Name = "ButtonPlus";
             this.ButtonPlus.Size = new System.Drawing.Size(110, 80);
@@ -159,8 +160,8 @@
             // 
             // ButtonThree
             // 
-            this.ButtonThree.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonThree.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonThree.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonThree.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonThree.Location = new System.Drawing.Point(244, 366);
             this.ButtonThree.Name = "ButtonThree";
             this.ButtonThree.Size = new System.Drawing.Size(110, 80);
@@ -171,8 +172,8 @@
             // 
             // ButtonTwo
             // 
-            this.ButtonTwo.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonTwo.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonTwo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonTwo.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonTwo.Location = new System.Drawing.Point(128, 366);
             this.ButtonTwo.Name = "ButtonTwo";
             this.ButtonTwo.Size = new System.Drawing.Size(110, 80);
@@ -183,8 +184,8 @@
             // 
             // button12
             // 
-            this.button12.BackColor = System.Drawing.Color.DarkGray;
-            this.button12.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.button12.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.button12.Location = new System.Drawing.Point(12, 366);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(110, 80);
@@ -195,8 +196,8 @@
             // 
             // ButtonMultiplication
             // 
-            this.ButtonMultiplication.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonMultiplication.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonMultiplication.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonMultiplication.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonMultiplication.Location = new System.Drawing.Point(362, 276);
             this.ButtonMultiplication.Name = "ButtonMultiplication";
             this.ButtonMultiplication.Size = new System.Drawing.Size(110, 80);
@@ -207,8 +208,8 @@
             // 
             // ButtonSix
             // 
-            this.ButtonSix.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonSix.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonSix.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonSix.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonSix.Location = new System.Drawing.Point(244, 276);
             this.ButtonSix.Name = "ButtonSix";
             this.ButtonSix.Size = new System.Drawing.Size(110, 80);
@@ -219,8 +220,8 @@
             // 
             // ButtonFive
             // 
-            this.ButtonFive.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonFive.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonFive.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonFive.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonFive.Location = new System.Drawing.Point(128, 276);
             this.ButtonFive.Name = "ButtonFive";
             this.ButtonFive.Size = new System.Drawing.Size(110, 80);
@@ -231,8 +232,8 @@
             // 
             // ButtonFour
             // 
-            this.ButtonFour.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonFour.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonFour.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonFour.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonFour.Location = new System.Drawing.Point(12, 276);
             this.ButtonFour.Name = "ButtonFour";
             this.ButtonFour.Size = new System.Drawing.Size(110, 80);
@@ -243,11 +244,11 @@
             // 
             // ButtonPunct
             // 
-            this.ButtonPunct.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonPunct.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ButtonPunct.Location = new System.Drawing.Point(244, 457);
+            this.ButtonPunct.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonPunct.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.ButtonPunct.Location = new System.Drawing.Point(12, 100);
             this.ButtonPunct.Name = "ButtonPunct";
-            this.ButtonPunct.Size = new System.Drawing.Size(110, 80);
+            this.ButtonPunct.Size = new System.Drawing.Size(110, 79);
             this.ButtonPunct.TabIndex = 19;
             this.ButtonPunct.Text = ".";
             this.ButtonPunct.UseVisualStyleBackColor = false;
@@ -255,8 +256,8 @@
             // 
             // ButtonZero
             // 
-            this.ButtonZero.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonZero.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonZero.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ButtonZero.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonZero.Location = new System.Drawing.Point(12, 457);
             this.ButtonZero.Name = "ButtonZero";
             this.ButtonZero.Size = new System.Drawing.Size(226, 80);
@@ -267,8 +268,8 @@
             // 
             // ButtonToThePowerOf
             // 
-            this.ButtonToThePowerOf.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonToThePowerOf.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonToThePowerOf.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonToThePowerOf.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonToThePowerOf.ForeColor = System.Drawing.Color.Black;
             this.ButtonToThePowerOf.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.ButtonToThePowerOf.Location = new System.Drawing.Point(128, 100);
@@ -281,8 +282,8 @@
             // 
             // ButtonSquareRoot
             // 
-            this.ButtonSquareRoot.BackColor = System.Drawing.Color.DarkGray;
-            this.ButtonSquareRoot.Font = new System.Drawing.Font("Ravie", 27F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonSquareRoot.BackColor = System.Drawing.Color.DimGray;
+            this.ButtonSquareRoot.Font = new System.Drawing.Font("Arial", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.ButtonSquareRoot.ForeColor = System.Drawing.Color.Black;
             this.ButtonSquareRoot.Location = new System.Drawing.Point(362, 366);
             this.ButtonSquareRoot.Name = "ButtonSquareRoot";
@@ -296,7 +297,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.LightGray;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(484, 543);
             this.Controls.Add(this.ButtonSquareRoot);
             this.Controls.Add(this.ButtonToThePowerOf);
